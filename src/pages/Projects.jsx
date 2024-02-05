@@ -52,7 +52,7 @@ export default function Projects() {
             </div>
 
             {/* Projects Section */}
-            <div className='mx-12 mt-24 flex flex-col-reverse overflow-hidden'>
+            <div className='mx-12 mt-24 flex flex-col-reverse'>
 
                 {loading ?
                     (
